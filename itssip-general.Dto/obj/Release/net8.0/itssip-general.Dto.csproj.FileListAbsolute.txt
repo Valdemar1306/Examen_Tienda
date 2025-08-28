@@ -1,0 +1,11 @@
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\bin\Release\net8.0\itssip-general.Dto.deps.json
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\bin\Release\net8.0\itssip-general.Dto.dll
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\bin\Release\net8.0\itssip-general.Dto.pdb
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.AssemblyInfoInputs.cache
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.AssemblyInfo.cs
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.csproj.CoreCompileInputs.cache
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.dll
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\refint\itssip-general.Dto.dll
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\itssip-general.Dto.pdb
+C:\ProyectosDevops\itssip-general-API\itssip-general.Dto\obj\Release\net8.0\ref\itssip-general.Dto.dll

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>itssip_general.DataAccess</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\itssip-general.Common\itssip-general.Common.csproj" />
+    <ProjectReference Include="..\itssip-general.DataAccess.SqlServer\itssip-general.DataAccess.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

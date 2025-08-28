@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>itssip_general.Logic</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="System.IO.Packaging" Version="8.0.1" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\itssip-general.DataAccess\itssip-general.DataAccess.csproj" />
+	  <ProjectReference Include="..\itssip-general.Dto\itssip-general.Dto.csproj" />
+	</ItemGroup>
+
+</Project>

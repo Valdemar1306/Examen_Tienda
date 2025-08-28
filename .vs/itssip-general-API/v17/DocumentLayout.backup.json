@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos\\itssip-general-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|c:\\proyectos\\itssip-general-api\\itssip-legal-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|solutionrelative:itssip-legal-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|c:\\proyectos\\itssip-general-api\\itssip-legal-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|solutionrelative:itssip-legal-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|solutionrelative:itssip-general.dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|c:\\proyectos\\itssip-general-api\\itssip-legal-api\\controllers\\generalcontrol\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|solutionrelative:itssip-legal-api\\controllers\\generalcontrol\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dataaccess.sqlserver\\general\\articulosqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|solutionrelative:itssip-general.dataaccess.sqlserver\\general\\articulosqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|c:\\proyectos\\itssip-general-api\\itssip-legal-api\\controllers\\generalcontrol\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|solutionrelative:itssip-legal-api\\controllers\\generalcontrol\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dataaccess.sqlserver\\general\\generalsqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|solutionrelative:itssip-general.dataaccess.sqlserver\\general\\generalsqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.logic\\general\\generallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|solutionrelative:itssip-general.logic\\general\\generallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|solutionrelative:itssip-general.dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dto\\carritoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE07588-BA17-4582-A5EE-57176EDCDC70}|itssip-general.Dto\\itssip-general.Dto.csproj|solutionrelative:itssip-general.dto\\carritoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.logic\\general\\articulologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|solutionrelative:itssip-general.logic\\general\\articulologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|c:\\proyectos\\itssip-general-api\\itssip-legal-api\\controllers\\generalcontrol\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEC6798-BD99-4407-8D6D-00753F4D5222}|itssip-legal-API\\itssip-general-API.csproj|solutionrelative:itssip-legal-api\\controllers\\generalcontrol\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.logic\\general\\tiendalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B71EEC-59A6-4E52-B73A-ED523D2C5E65}|itssip-general.Logic\\itssip-general.Logic.csproj|solutionrelative:itssip-general.logic\\general\\tiendalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|c:\\proyectos\\itssip-general-api\\itssip-general.dataaccess.sqlserver\\general\\tiendasqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26D3D31-0AE1-44C9-BBE6-D6B7BD26CF8B}|itssip-general.DataAccess.SqlServer\\itssip-general.DataAccess.SqlServer.csproj|solutionrelative:itssip-general.dataaccess.sqlserver\\general\\tiendasqlserverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "itssip-legal-API\\appsettings.Development.json",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\appsettings.Development.json",
+              "RelativeToolTip": "itssip-legal-API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T03:24:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:476108073:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f6c90d9a-1aa8-32e5-baac-467b7262213c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneralLogic.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\GeneralLogic.cs",
+              "RelativeDocumentMoniker": "itssip-general.Logic\\General\\GeneralLogic.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\GeneralLogic.cs",
+              "RelativeToolTip": "itssip-general.Logic\\General\\GeneralLogic.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:16:59.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarritoItemDto.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\CarritoItemDto.cs",
+              "RelativeDocumentMoniker": "itssip-general.Dto\\CarritoItemDto.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\CarritoItemDto.cs",
+              "RelativeToolTip": "itssip-general.Dto\\CarritoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:13:09.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloDto.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\ArticuloDto.cs",
+              "RelativeDocumentMoniker": "itssip-general.Dto\\ArticuloDto.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\ArticuloDto.cs",
+              "RelativeToolTip": "itssip-general.Dto\\ArticuloDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:37:37.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "itssip-legal-API\\Controllers\\GeneralControl\\ArticuloController.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\ArticuloController.cs",
+              "RelativeToolTip": "itssip-legal-API\\Controllers\\GeneralControl\\ArticuloController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:32:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TiendaSqlServerDao.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\TiendaSqlServerDao.cs",
+              "RelativeDocumentMoniker": "itssip-general.DataAccess.SqlServer\\General\\TiendaSqlServerDao.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\TiendaSqlServerDao.cs",
+              "RelativeToolTip": "itssip-general.DataAccess.SqlServer\\General\\TiendaSqlServerDao.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:02:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloSqlServerDao.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\ArticuloSqlServerDao.cs",
+              "RelativeDocumentMoniker": "itssip-general.DataAccess.SqlServer\\General\\ArticuloSqlServerDao.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\ArticuloSqlServerDao.cs",
+              "RelativeToolTip": "itssip-general.DataAccess.SqlServer\\General\\ArticuloSqlServerDao.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFoAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:49:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TiendaLogic.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\TiendaLogic.cs",
+              "RelativeDocumentMoniker": "itssip-general.Logic\\General\\TiendaLogic.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\TiendaLogic.cs",
+              "RelativeToolTip": "itssip-general.Logic\\General\\TiendaLogic.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:46:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\appsettings.json",
+              "RelativeDocumentMoniker": "itssip-legal-API\\appsettings.json",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\appsettings.json",
+              "RelativeToolTip": "itssip-legal-API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T02:12:33.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralSqlServerDao.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\GeneralSqlServerDao.cs",
+              "RelativeDocumentMoniker": "itssip-general.DataAccess.SqlServer\\General\\GeneralSqlServerDao.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.DataAccess.SqlServer\\General\\GeneralSqlServerDao.cs",
+              "RelativeToolTip": "itssip-general.DataAccess.SqlServer\\General\\GeneralSqlServerDao.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAmwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:31:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticuloLogic.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\ArticuloLogic.cs",
+              "RelativeDocumentMoniker": "itssip-general.Logic\\General\\ArticuloLogic.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Logic\\General\\ArticuloLogic.cs",
+              "RelativeToolTip": "itssip-general.Logic\\General\\ArticuloLogic.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:42:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\TiendaController.cs",
+              "RelativeDocumentMoniker": "itssip-legal-API\\Controllers\\GeneralControl\\TiendaController.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\TiendaController.cs",
+              "RelativeToolTip": "itssip-legal-API\\Controllers\\GeneralControl\\TiendaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:32:28.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralController.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\GeneralController.cs",
+              "RelativeDocumentMoniker": "itssip-legal-API\\Controllers\\GeneralControl\\GeneralController.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-legal-API\\Controllers\\GeneralControl\\GeneralController.cs",
+              "RelativeToolTip": "itssip-legal-API\\Controllers\\GeneralControl\\GeneralController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:32:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "itssip-general.Dto\\ClienteDto.cs",
+              "ToolTip": "C:\\proyectos\\itssip-general-API\\itssip-general.Dto\\ClienteDto.cs",
+              "RelativeToolTip": "itssip-general.Dto\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:32:00.242Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

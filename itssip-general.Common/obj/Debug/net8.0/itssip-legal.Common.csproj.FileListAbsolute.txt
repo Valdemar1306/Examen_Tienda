@@ -1,0 +1,11 @@
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\bin\Debug\net8.0\itssip-legal.Common.deps.json
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\bin\Debug\net8.0\itssip-legal.Common.dll
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\bin\Debug\net8.0\itssip-legal.Common.pdb
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.AssemblyInfoInputs.cache
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.AssemblyInfo.cs
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.csproj.CoreCompileInputs.cache
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.dll
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\refint\itssip-legal.Common.dll
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\itssip-legal.Common.pdb
+C:\ProyectosDevops\itssip-legal-API\itssip-legal.Common\obj\Debug\net8.0\ref\itssip-legal.Common.dll
